@@ -1,0 +1,11 @@
+# local settings and runtime state never belong in git
+.env
+watcher_state.json
+alt_state.json
+__pycache__/
+*.pyc
+.workbuddy-dispatch/
+.tools/
+.local/
+runtime_state.json
+verification/
