@@ -17,7 +17,7 @@
 
 ## GitHub 仓库
 
-建议仓库名 `tibo-reset-notifier`，默认分支沿用 `master`。
+已部署仓库：[Ls333333/tibo-reset-notifier](https://github.com/Ls333333/tibo-reset-notifier)，默认分支 `main`。
 
 公开仓库使用标准 GitHub 托管 runner 免费；私有仓库消耗账户的 Actions 免费分钟，超额可能计费或停跑。每 10 分钟约有 4320 次/月，应根据实际计费和运行时长决定是否改为每 30 分钟。仓库可见性由使用者确认后再创建。
 
