@@ -111,43 +111,6 @@
   "aihot:2061106703446450392": "2026-11-07T14:24:36+00:00",
   "aihot:2062329981548802523": "2026-11-07T14:24:36+00:00"
  },
- "pending": {
-  "aihot:2061106703446450392": {
-   "post": {
-    "key": "aihot:2061106703446450392",
-    "source": "x",
-    "title": "Tibo \u00b7 \u5168\u5458\u91cd\u7f6e \u00b7 \u786e\u8ba4\u5b8c\u6210",
-    "body": "AIHOT\u6574\u7406 \u00b7 \u786e\u8ba4\u5b8c\u6210\n\u6240\u6709\u4ed8\u8d39 ChatGPT \u8ba2\u9605\u7684 Codex \u7528\u91cf\u989d\u5ea6\u5df2\u91cd\u7f6e\u3002\u4f60\u4eec\u7684\u6bcf\u5468\u989d\u5ea6\u548c\u6bcf\u5c0f\u65f6\u989d\u5ea6\u90fd\u5e94\u8be5\u6062\u590d\u5230 100%\u3002\n\n\u539f\u6587\u6458\u5f55\uff1a\nThe Codex usage limits have been reset for all paid ChatGPT subscriptions. You should be back to 100% weekly and 100% hourly limits.",
-    "url": "https://x.com/thsottiaux/status/2061106703446450392",
-    "created_at": "2026-05-31T23:25:06+08:00",
-    "is_reply": false
-   },
-   "score_total": 7,
-   "score_hits": "limits-reset, usage-limits, codex, chatgpt",
-   "remaining": [
-    "pushplus"
-   ],
-   "completed": [],
-   "queued_at": "2026-11-07T14:24:36+00:00"
-  },
-  "aihot:2062329981548802523": {
-   "post": {
-    "key": "aihot:2062329981548802523",
-    "source": "x",
-    "title": "Tibo \u00b7 \u5168\u5458\u91cd\u7f6e \u00b7 \u786e\u8ba4\u5b8c\u6210",
-    "body": "AIHOT\u6574\u7406 \u00b7 \u786e\u8ba4\u5b8c\u6210\n\u6211\u5df2\u7ecf\u91cd\u7f6e\u4e86\u6240\u6709\u4ed8\u8d39\u5957\u9910\u7684 Codex \u7528\u91cf\u989d\u5ea6\u3002\n\n\u539f\u6587\u6458\u5f55\uff1a\nI have reset usage limits for Codex across all paid plans.",
-    "url": "https://x.com/thsottiaux/status/2062329981548802523",
-    "created_at": "2026-06-04T08:25:58+08:00",
-    "is_reply": false
-   },
-   "score_total": 6,
-   "score_hits": "limits-reset, usage-limits, codex",
-   "remaining": [
-    "pushplus"
-   ],
-   "completed": [],
-   "queued_at": "2026-11-07T14:24:36+00:00"
-  }
- },
- "last_run": "2026-11-07T18:54:23+00:00"
+ "pending": {},
+ "last_run": "2026-11-07T22:22:58+00:00"
 }
